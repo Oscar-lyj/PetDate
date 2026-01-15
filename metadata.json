@@ -1,0 +1,5 @@
+{
+  "name": "PetDate - Relationship Tracker",
+  "description": "A shared memory journal and relationship tracker with a virtual pet companion.",
+  "requestFramePermissions": []
+}
